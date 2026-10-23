@@ -1,0 +1,6 @@
+# Requires Python 3.11 or newer
+browser-use==0.13.11
+cursor-sdk==1.0.40
+pydantic==2.13.5
+python-dotenv==1.2.2
+pytest==9.1.1
